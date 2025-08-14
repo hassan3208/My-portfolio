@@ -521,7 +521,7 @@ export default function Index() {
                     </div>
                   </div>
                   <p className="text-purple-400 text-lg font-['Poppins'] font-semibold mb-2 text-right">Featured Project</p>
-                  <h3 className="text-white text-4xl font-['Poppins'] font-semibold mb-6 text-right">Example Project</h3>
+                  <h3 className="text-white text-4xl font-['Poppins'] font-semibold mb-6 text-right">Happy Bot</h3>
                   <p className="text-gray-300 text-lg font-['Poppins'] leading-relaxed text-right">
                     An AI chatbot built with Retrieval-Augmented Generation (RAG) using DeepSeek LLM and LangChain. It retrieves context from uploaded documents or web URLs and generates intelligent answers, with adjustable temperature settings for response creativity.
                   </p>
