@@ -746,7 +746,7 @@ export default function Index() {
               </a>
 
               {/* Browser / Website */}
-              <a href="https://your-website.com" target="_blank" rel="noopener noreferrer">
+              <a href="https://hassan-portfolio-1019.vercel.app/" target="_blank" rel="noopener noreferrer">
                 <svg xmlns="http://www.w3.org/2000/svg"
                   className="w-8 h-8 text-white hover:text-green-400 transition-colors"
                   fill="currentColor" viewBox="0 0 24 24">
