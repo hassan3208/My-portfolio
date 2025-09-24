@@ -703,6 +703,47 @@ export default function Index() {
             </div>
 
 
+
+
+            {/* Project 8 */}
+            <div className="flex flex-col lg:flex-row-reverse items-center gap-12">
+              <div className="lg:w-1/2">
+                <div className="bg-gray-800/50 backdrop-blur-md rounded-2xl p-8 border border-purple-700/30">
+                  <div className="flex items-center justify-end mb-4">
+                    <div className="flex space-x-4">
+                      <svg className="w-8 h-8 text-white cursor-pointer hover:text-purple-400" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M12 2L15.09 8.26L22 9L16 14.74L17.18 21.02L12 18.26L6.82 21.02L8 14.74L2 9L8.91 8.26L12 2Z" />
+                      </svg>
+                      <svg className="w-8 h-8 text-white cursor-pointer hover:text-purple-400" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M12 2L15.09 8.26L22 9L16 14.74L17.18 21.02L12 18.26L6.82 21.02L8 14.74L2 9L8.91 8.26L12 2Z" />
+                      </svg>
+                    </div>
+                  </div>
+                  <p className="text-purple-400 text-lg font-['Poppins'] font-semibold mb-2 text-right">Featured Project</p>
+                  <h3 className="text-white text-4xl font-['Poppins'] font-semibold mb-6 text-right">Dietitian AI Agent</h3>
+                  <p className="text-gray-300 text-lg font-['Poppins'] leading-relaxed text-right">
+                    An AI-powered application that generates a personalized diet plan based on user input such as age, health goals, and dietary preferences. Built with LangGraph and LangChain, it creates a professional PDF diet plan ready to share with clients.
+                  </p>
+                </div>
+              </div>
+              <div className="lg:w-1/2">
+                <div className="bg-gray-700 rounded-2xl h-80 flex items-center justify-center">
+                  <a href="https://github.com/hassan3208/Dietetian-agent">
+                    <img
+                      src="https://instant-purple-gsicwfjiza.edgeone.app/Screenshot%202025-09-24%20173351.png"
+                      alt="Dietitian AI Agent Screenshot"
+                      className="w-full h-full object-cover rounded-2xl transform transition-transform duration-500 hover:scale-105 hover:shadow-lg hover:shadow-purple-500/40"
+                    />
+                  </a>
+                </div>
+              </div>
+            </div>
+
+
+
+            
+
+
           </div>
         </div>
       </section>
