@@ -760,7 +760,7 @@ export default function Index() {
                 <div className="bg-gray-700 rounded-2xl h-80 flex items-center justify-center">
                   <a href="https://rangistawebsite.vercel.app/">
                     <img
-                      src="https://i.postimg.cc/XNKnTTtc/Screenshot-2025-11-04-110727.png"
+                      src="https://i.postimg.cc/52hG9tFT/Screenshot-2025-11-04-111354.png"
                       alt="Project Screenshot"
                       className="w-full h-full object-cover rounded-2xl transform transition-transform duration-500 hover:scale-105 hover:shadow-lg hover:shadow-purple-500/40"
                     />
