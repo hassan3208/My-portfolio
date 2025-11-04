@@ -741,6 +741,36 @@ export default function Index() {
 
 
 
+
+
+
+
+            {/* Project 9 */}
+            <div className="flex flex-col lg:flex-row items-center gap-12">
+              <div className="lg:w-1/2">
+                <div className="bg-gray-800/50 backdrop-blur-md rounded-2xl p-8 border border-purple-700/30">
+                  <p className="text-purple-400 text-lg font-['Poppins'] font-semibold mb-2">Featured Project</p>
+                  <h3 className="text-white text-4xl font-['Poppins'] font-semibold mb-6">Rangista – Clothing E-Commerce Store</h3>
+                  <p className="text-gray-300 text-lg font-['Poppins'] leading-relaxed">
+                    Built a professional e-commerce website for my professional client using React, FastAPI, PostgreSQL, and Supabase with JWT authentication. The platform supports product listings, user accounts, and secure order management.
+                  </p>
+                </div>
+              </div>
+              <div className="lg:w-1/2">
+                <div className="bg-gray-700 rounded-2xl h-80 flex items-center justify-center">
+                  <a href="https://rangistawebsite.vercel.app/">
+                    <img
+                      src="https://i.postimg.cc/XNKnTTtc/Screenshot-2025-11-04-110727.png"
+                      alt="Project Screenshot"
+                      className="w-full h-full object-cover rounded-2xl transform transition-transform duration-500 hover:scale-105 hover:shadow-lg hover:shadow-purple-500/40"
+                    />
+                  </a>
+                </div>
+              </div>
+            </div>
+
+
+
             
 
 
