@@ -730,7 +730,7 @@ export default function Index() {
                 <div className="bg-gray-700 rounded-2xl h-80 flex items-center justify-center">
                   <a href="https://github.com/hassan3208/Dietetian-agent">
                     <img
-                      src="https://instant-purple-gsicwfjiza.edgeone.app/Screenshot%202025-09-24%20173351.png"
+                      src="https://i.postimg.cc/sxWmNYTh/Screenshot-2025-11-04-111650.png"
                       alt="Dietitian AI Agent Screenshot"
                       className="w-full h-full object-cover rounded-2xl transform transition-transform duration-500 hover:scale-105 hover:shadow-lg hover:shadow-purple-500/40"
                     />
@@ -738,10 +738,6 @@ export default function Index() {
                 </div>
               </div>
             </div>
-
-
-
-
 
 
 
